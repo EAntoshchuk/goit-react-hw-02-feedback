@@ -1,3 +1,5 @@
+import Feedback from './Feedback/Feedback';
+
 export const App = () => {
   return (
     <div
@@ -11,6 +13,9 @@ export const App = () => {
       }}
     >
       goit-react-hw-02-feedback
+      <div>
+        <Feedback />
+      </div>
     </div>
   );
 };
