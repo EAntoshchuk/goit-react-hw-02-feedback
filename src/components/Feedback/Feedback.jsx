@@ -80,14 +80,6 @@ class Feedback extends Component {
 
 export default Feedback;
 
-// export default function Feedback() {
-//   {
-//   }
-// return (
-
-// );
-// }
-
 // Feedback.propTypes = {
 //   state: PropTypes.arrayOf(
 //     PropTypes.shape({
